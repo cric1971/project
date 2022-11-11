@@ -38,9 +38,9 @@ con le seguenti caratteristiche:
 ## Suggerimenti funzionalità aggiuntive
 
 - Estrazione nuove feature dall'input attuale, per miglioramento prestazioni modelli (stima incremento prestazioni: +10%)
-- Ingegnerizzazione delle feature, per miglioramento affidabilità della _feature importance_
+- Analisi di robustezza della procedura di calcolo della _feature importance_
 - Interpretabilità avanzata del modello
 - Diverso formato dei file di input (singolo file?)
 - Riduzione dei tempi di estrazione feature ed addestramento
 - Analisi approfondita della coerenza dei dati di input, per segnalare eventuali incoerenze
-- Tracciamento storico dei modelli rilasciati e dei dati usati per il loro addestramento
+- Tracciamento storico dei modelli rilasciati e dei dati usati per il loro addestramento (verificare con il cliente per questioni interne di risk management su AI)
