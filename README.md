@@ -1,6 +1,6 @@
 # product (Payment Forecasting)
 
-![interfaccia](stima/interfaccia.png)
+![interfaccia](interfaccia.png)
 
 [Mockup di funzionamento dell'applicazione](https://xd.adobe.com/view/eb03dfb6-65eb-4812-8f4f-1fc7e1723b69-be50/?fullscreen)
 
@@ -25,11 +25,11 @@ Le stime dei tempi di calcolo nei punti 5. e 6. sono state effettuate su una
 macchina 
 con le seguenti caratteristiche:
 
-![dettagli_server](stima/dettagli_server.png)
+![dettagli_server](dettagli_server.png)
 
 ## Stima lavoro
 
-![gantt](stima/gantt.png "gantt")
+![gantt](gantt.png "gantt")
 
 - Durata: 5 settimane;
 - Impegno: 10 settimane-uomo;
