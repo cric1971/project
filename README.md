@@ -27,13 +27,9 @@ con le seguenti caratteristiche:
 
 ![dettagli_server](dettagli_server.png)
 
-## Stima lavoro
-
-![gantt](gantt.png "gantt")
+## Stima durata progetto
 
 - Durata: 5 settimane;
-- Impegno: 10 settimane-uomo;
-- Figure: 1 frontend; 1 AI backend.
 
 ## Suggerimenti funzionalità aggiuntive
 
